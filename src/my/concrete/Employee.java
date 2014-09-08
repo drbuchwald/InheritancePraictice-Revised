@@ -6,7 +6,7 @@
 package my.concrete;
 
 /**
- *
+ * 
  * @author Dan
  */
 public class Employee {
